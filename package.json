@@ -1,0 +1,19 @@
+{
+  "name": "vod_lol",
+  "version": "1.0.0",
+  "description": "I did it for the lolz",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Vod",
+    "Destiny",
+    "2"
+  ],
+  "author": "Drew Theis",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^14.2.1"
+  }
+}
